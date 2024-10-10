@@ -1,7 +1,7 @@
 {
-  "name": "chappe",
-  "description": "Developer Docs builder. Write guides in Markdown and references in API Blueprint. Comes with a built-in search engine.",
-  "version": "1.9.5",
+  "name": "chappe-esp-mx",
+  "description": "This is a Fork of chappe translated in spanish. Developer Docs builder. Write guides in Markdown and references in API Blueprint. Comes with a built-in search engine.",
+  "version": "1.9.51",
   "homepage": "https://github.com/crisp-oss/chappe",
   "license": "MIT",
   "bin": {
